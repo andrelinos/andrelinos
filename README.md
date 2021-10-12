@@ -1,7 +1,10 @@
-### Hi there 👋
+### Andrelino Silva 👋
 
 <!--
 **andrelinos/andrelinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+https://img.shields.io/github/languages/count/andrelinos/gofinances-react-native
 
 Here are some ideas to get you started:
 
