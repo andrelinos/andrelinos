@@ -42,5 +42,5 @@ Em resumo, estou aqui ocupando minha posição no tempo da tecnologia até onde 
 
 Se precisar de minha ajuda e estiver no meu poder, pode contar comigo. Estou à disposição!
 
-Att
+Att <br />
 Andrelino Silva
