@@ -1,4 +1,8 @@
-Me chamo Andrelino Silva, estou a pouco mais de um ano envolvido na área de desenvolvimento e em especial aprendendo tudo com a @Rocketseat. Mas, antes deixe-me contar um pouco da minha história... 
+# Olá, seja bem vindo a minha bio!
+
+---
+
+Me chamo Andrelino Silva, estou a pouco mais de um ano envolvido na área de desenvolvimento e em especial aprendendo tudo com a [Rocketseat](rocketseat.com.br). Mas, antes deixe-me contar um pouco da minha história... 
 
 Nasci na área rural no ano de 1978, meu pai biológico assim como boa parte de alguns pais, saiu de casa e nunca mais tive contato. Ou seja, não o conheço até hoje. Mas, para a felicidade, minha  mãe acabou se casando de novo e por fim tive um pai até os 12 anos. Digo que tive, pois quando tinha 12 anos meu pai faleceu de problemas de saúde. 
 
@@ -25,6 +29,9 @@ Em final de 2019, conheci a Rocketseat, e de cara já fiquei pilhado com a ideia
 Cara, pensei em desistir várias e várias vezes, pois tinha certeza que não iria conseguir fazer nada! Não entendi quase nada. Mas, precisava resistir a todas as dificuldades para poder fazer o que amo e sou fascinado. Até pedi ajuda pelo contato disponível, mas não foi bem do jeito que esperava. Pois, assim como numa escola, se o aluno não consegue entender a matéria, o professor se assenta ao lado e o ajuda… Bem, isso é o que eu queria, mas acho que não era isso o que a Rocket pensava.
 
 Bom, não é uma reclamação ou falando mal, mas acredito que o humano sente esta falta quando tem dificuldades em entender ou fazer algo. Assim como um guaxinim filhote não consegue subir em um barranco, a mãe o incentiva, desce e sobe várias vezes e por fim agarra na sua mão e o leva para cima, ou seja ninguém fica para trás! 
+
+[![Guaxinim ajudando filhote](https://img.youtube.com/vi/ZBa6e0xhdnw/0.jpg)](https://www.youtube.com/watch?v=ZBa6e0xhdnw "Guaxinim ajudando filhote")
+<br />
 Este vídeo exemplifica isso: [https://youtu.be/ZBa6e0xhdnw](https://youtu.be/ZBa6e0xhdnw)
 
 Mas, depois de mais de um ano na luta, já estou conseguindo caminhar um pouco, mas ainda sem uma ajuda direta (o agarra pela mão), mas não posso desistir diante de qualquer desafio, pois embora as pessoas sempre te incentivem a caminhar e a não desistir, não podemos esperar que peguem em nossa mão e nos ajudem de forma direta e exclusiva a passar pelos obstáculos. Não que elas sejam más e não queiram te levar junto, mas por que o tempo delas é importante demais para te doar exclusivamente. 
