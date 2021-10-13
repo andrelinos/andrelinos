@@ -6,7 +6,7 @@
 
 
 # :alien: Bio
-Me chamo Andrelino Silva ([leia minha bio](bio.md)), estou na luta todos os dias desde a muito tempo, mas assim como cada um tem seu tempo, estou na minha jornada tentando andar com você, acompanhar você, seguir seu exemplo. Não tem como estacionar e nem como ultrapassar a experiência. Nunca podemos parar de aprender e nunca parar de compartilhar - #NeverStopLearning e #NeverStopShare 
+Me chamo Andrelino Silva, estou na luta todos os dias desde a muito tempo, mas assim como cada um tem seu tempo, estou na minha jornada tentando andar com você, acompanhar você, seguir seu exemplo. Não tem como estacionar e nem como ultrapassar a experiência. Nunca podemos parar de aprender e nunca parar de compartilhar - #NeverStopLearning e #NeverStopShare 
 <br ><br >
 
 # 🌱 O que estou aprendendo 
