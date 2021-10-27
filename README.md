@@ -1,8 +1,10 @@
 <br ><br >
 <p align="center"><img src="logo.png" style="width: 400px" alt="Logo Andrelino Silva" /></p>
 
-![Bem vindo!](welcome.svg)
+  
+![Bem vindo!](welcome.svg)<br>
 ![](https://komarev.com/ghpvc/?username=your-github-andrelinos&color=1e90ff&style=flat&label=Você%20é%20o%20visitante:)
+  
 
 <br ><br >
 
@@ -45,6 +47,14 @@ Se precisar de minha ajuda ou apenas fazer um network, pode chamar ai!
 <br ><br >
 
 # 📫 Fale comigo
+<h3 align="center"> 🤝🏻 &nbsp;Lets Connect </h3>
+<br/>
+<p align="center">
+<a href="https://youtube.com/channel/UCx7YA_85p4K--4zz0v3qjCQ?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/Channel-Andrelino_Silva-red?style=social&logo=youtube"></a>  
+<a href="https://www.linkedin.com/in/andrelinosilva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andrelino%20Silva-blue?style=social&logo=linkedin"></a>  
+<a href="https://www.instagram.com/andrelinossilva/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-andrelinossilva_-purple?style=social&logo=instagram"></a>
+</p>
+
 Tinha pensado em colocar uma lista longa de opções de contato, mas vou deixar apenas o site pessoa que tem todas as opções de contato disponíveis. O meu site é <a href="https://andrelino.dev/" target="_blank">andrelino.dev</a>. Bora lá!
 
 <br><br >
