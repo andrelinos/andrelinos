@@ -3,6 +3,9 @@
 
 ![Bem vindo!](welcome.svg)
 
+---
+![](https://komarev.com/ghpvc/?username=your-github-andrelinos&color=1e90ff&style=flat&label=Você%20é%20o%20visitante:)
+
 <br ><br >
 
 # :alien: Bio
@@ -48,6 +51,5 @@ Tinha pensado em colocar uma lista longa de opções de contato, mas vou deixar 
 
 <br><br >
 
----
-![](https://komarev.com/ghpvc/?username=your-github-andrelinos&color=1e90ff&style=flat&label=Você%20é%20o%20visitante:)
+
 
