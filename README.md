@@ -2,8 +2,6 @@
 <p align="center"><img src="logo.png" style="width: 400px" alt="Logo Andrelino Silva" /></p>
 
 ![Bem vindo!](welcome.svg)
-
----
 ![](https://komarev.com/ghpvc/?username=your-github-andrelinos&color=1e90ff&style=flat&label=Você%20é%20o%20visitante:)
 
 <br ><br >
