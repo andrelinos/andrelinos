@@ -1,15 +1,16 @@
 <br ><br >
 <p align="center"><img src="logo.png" style="width: 400px" alt="Logo Andrelino Silva" /></p>
 
-  
-![Bem vindo!](welcome.svg)<br>
+<img align="center" width="100%" src="welcome.svg" alt="Bem vindo!">
+
 ![](https://komarev.com/ghpvc/?username=your-github-andrelinos&color=1e90ff&style=flat&label=Você%20é%20o%20visitante:)
-  
 
 <br ><br >
 
 # :alien: Bio
-![Bem vindo!](bio.svg)
+
+<img align="center" width="100%" src="bio.svg" alt="Bio">
+
 
 <br >
 
@@ -21,8 +22,7 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelinos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelinos&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelinos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelinos&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <br ><br >
 
