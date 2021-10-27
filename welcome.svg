@@ -99,6 +99,7 @@
 					font-size: 18px;
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
+					padding: 32px;
 				}
 			</style>
 			<div class="container">
