@@ -1,6 +1,7 @@
 <br ><br >
 <p align="center"><img src="logo.png" style="width: 400px" alt="Logo Andrelino Silva" /></p>
 
+---
 <img align="center" width="100%" height="100%" src="welcome.svg" alt="Bem vindo!">
 
 ![](https://komarev.com/ghpvc/?username=your-github-andrelinos&color=1e90ff&style=flat&label=Você%20é%20o%20visitante:)
@@ -21,7 +22,8 @@
 - [TypeScript](https://www.typescriptlang.org/pt/)
 
 <br>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrelinos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelinos&layout=compact&langs_count=7&theme=tokyonight"/></p>
+<p align="center"><img width="530em" src="https://github-readme-stats.vercel.app/api?username=andrelinos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelinos&layout=compact&langs_count=7&theme=tokyonight"/></p>
 <br ><br >
 
 #
@@ -35,18 +37,27 @@ Estou ansioso por mudar de ramo. Atualmente trabalho com manutenção de celular
 
 <br ><br >
 
-# 💬 Ajuda 
-
-Se precisar de minha ajuda ou apenas fazer um network, pode chamar ai! 
-<br ><br >
-
-# 📫 Fale comigo
+# 🌎 Bora conectar
 
 <br/>
-<p align="center"><a href="https://youtube.com/channel/UCx7YA_85p4K--4zz0v3qjCQ?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/Channel-Andrelino_Silva-red?style=social&logo=youtube"></a>  
-<a href="https://www.linkedin.com/in/andrelinosilva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Andrelino%20Silva-blue?style=social&logo=linkedin"></a>  
-<a href="https://www.instagram.com/andrelinossilva/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-andrelinossilva_-purple?style=social&logo=instagram"></a>   
-<a href="https://www.andrelino.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-andrelino.dev-lightgrey?style=social&logo=appveyor"></a></p>
+
+<p align="center" style="background:yellow">
+<a href="https://codepen.io/andrelinos" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-andrelinos-2d3436?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://linkedin.com/in/andrelinosilva" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-andrelinosilva-2d3436?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/andrelinossilva" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-andrelinossilva-2d3436?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://youtube.com/andrelinosilvas" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-andrelinosilvas-2d3436?style=flat&logo=youtube" alt="youtube"/>
+</a>
+<a href="https://www.andrelino.dev/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-andrelinos.dev-2d3436?style=flat&logo=appveyor" alt="website"/>
+</a>
+</p>
 
 
 <br><br >
