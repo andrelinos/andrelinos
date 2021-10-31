@@ -17,8 +17,8 @@
 
 # 🌱 O que estou aprendendo (techs)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)<br />
-- [Node.js](https://nodejs.org/pt-br/)<br />
+- [React Native](https://reactnative.dev/)
+- [Node.js](https://nodejs.org/pt-br/)
 - [TypeScript](https://www.typescriptlang.org/pt/)
 
 <br>
