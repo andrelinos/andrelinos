@@ -1,88 +1,91 @@
 <svg fill="none" viewBox="0 0 800 350" width="800" height="350" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				* {
-					margin:0;
-					padding:0;
-					box-sizing: border-box;
-				}
-				
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
 
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
+        @keyframes rotate {
+          0% {
+            transform: rotate(3deg);
+          }
 
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
+          100% {
+            transform: rotate(-3deg);
+          }
+        }
 
-					50% {
-						background-position: 100% 50%;
-					}
+        @keyframes gradientBackground {
+          0% {
+            background-position: 0% 50%;
+          }
 
-					100% {
-						background-position: 0% 50%;
-					}
-				}
+          50% {
+            background-position: 100% 50%;
+          }
 
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
+          100% {
+            background-position: 0% 50%;
+          }
+        }
 
-					66% {
-						opacity: 0;
-					}
+        @keyframes fadeIn {
+          0% {
+            opacity: 0;
+          }
 
-					100% {
-						opacity: 1;
-					}
-				}
-				
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					margin: 0;
-					padding: 24px;
-					width: 100%;
-					height: 350px;
-					background: linear-gradient(-45deg, #8e44ad, #0a3d62, #2c3e50);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: justify;
-					display: flex;
-					align-items: center;
-				
-				}
+          66% {
+            opacity: 0;
+          }
 
-				span {
-					font-size: 24px;
-					height: auto;
-				}
-			</style>
-			<div class="container">
-				<span> Me chamo <strong>Andrelino Silva</strong>, moro atualmente em Carangola, MG. Comecei a estudar programação no final de 2019 após assistir uma das semanas OmniStack da <strong>Rocketseat</strong>. 
-E hoje ainda continuo os estudos na mesma e aprendi muita coisa. Embora quando comecei, não sabia praticamente nada sobre JavaScript e relacionados. Mas, hoje já desenvolvi alguns projetos tanto para continuar aprendendo quanto nas aulas. 
-Tenho 43 anos e assim como muitos, sinto ter entrado tarde, mas ainda tenho sonhos de poder trabalhar numa empresa que possa me ajudar a crescer ainda mais como desenvolvedor. 
-</span>
-			</div>
-		</div>
-	</foreignObject>
+          100% {
+            opacity: 1;
+          }
+        }
+
+        .container {
+          font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,
+            'Apple Color Emoji', 'Segoe UI Emoji';
+          margin: 0;
+          padding: 24px;
+          width: 100%;
+          height: 350px;
+          background: linear-gradient(-45deg, #8e44ad, #0a3d62, #2c3e50);
+          background-size: 600% 400%;
+          animation: gradientBackground 10s ease infinite;
+          border-radius: 10px;
+          color: white;
+          text-align: justify;
+          display: flex;
+          align-items: center;
+        }
+
+        span {
+          font-size: 24px;
+          height: auto;
+        }
+      </style>
+      <div class="container">
+        <span id="description">
+          Me chamo <strong>Andrelino Silva</strong>, moro atualmente em Carangola, MG. Comecei a
+          estudar programação no final de 2019 após assistir uma das semanas OmniStack da <strong>Rocketseat</strong>. E
+          hoje ainda continuo os estudos na mesma e aprendi muita coisa. Embora quando
+          comecei, não sabia praticamente nada sobre JavaScript e relacionados. Mas, hoje já
+          desenvolvi alguns projetos tanto para continuar aprendendo quanto nas aulas. Tenho <span id="age">43</span>
+          anos e assim como muitos, sinto ter entrado tarde, mas ainda tenho sonhos de poder
+          trabalhar numa empresa que possa me ajudar a crescer ainda mais como desenvolvedor.
+        </span>
+      </div>
+    </div>
+  </foreignObject>
+  <script>
+    const birthYear = 1978;
+    const currentYear = new Date().getFullYear();
+    const age = currentYear - birthYear;
+
+    document.getElementById('age').textContent = age;
+  </script>
 </svg>
