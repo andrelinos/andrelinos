@@ -1,37 +1,171 @@
-## 👨‍💻 Sobre mim
 
-Sou desenvolvedor desde 2016 e atuo com React.js desde 2019. Trabalhei remotamente como desenvolvedor full-stack em uma empresa de tecnologia entre 2022 e 2025. Paralelamente, também desenvolvo projetos pessoais, soluções em Node.js e realizo trabalhos como freelancer.
+# What's up Dev? How are you? 👋
 
-Tenho experiência sólida com React Native e já participei do desenvolvimento de três sistemas SaaS:  
-- **me.bio.br** (público)  
-- [**Landing Page RKW**](https://landingpage-rkw.custoconecta.com.br) (corporativo)  
-- Um terceiro sistema privado, que não posso divulgar no momento.
-
----
-
-## 🛠️ Tecnologias que domino
-
-- **Frontend:** React.js, Next.js, React Native, Vite.js, TailwindCSS, Chakra UI, HTML5, CSS3, Sass, Bootstrap, WordPress  
-- **Backend:** Node.js, Express.js, Firebase, Prisma ORM  
-- **Banco de Dados:** PostgreSQL, MongoDB, SQLite  
-- **Outros:** TypeScript, Docker, Axios, React Query, NextAuth, integração com Stripe e Mercado Pago
-
-> Atualmente, utilizo **Fedora Linux** como sistema principal para desenvolvimento.
-
----
-
-## 🚀 Em busca de novas oportunidades
-
-Atualmente, além de trabalhar com manutenção de celulares, estou totalmente focado em migrar minha carreira para a área de desenvolvimento de software em tempo integral. Estou preparado e comprometido para integrar equipes tech que valorizem dedicação, aprendizado contínuo e paixão pelo que fazem.
-
----
-
-## 🌎 Vamos nos conectar?
+## 😁 Whow am I?
 
 <p align="center">
-  <a href="https://codepen.io/andrelinos" target="_blank"><img src="https://img.shields.io/badge/-andrelinos-2d3436?style=flat&logo=codepen" /></a>
-  <a href="https://linkedin.com/in/andrelinosilva" target="_blank"><img src="https://img.shields.io/badge/-andrelinosilva-2d3436?style=flat&logo=linkedin" /></a>
-  <a href="https://instagram.com/andrelinossilva" target="_blank"><img src="https://img.shields.io/badge/-andrelinossilva-2d3436?style=flat&logo=instagram" /></a>
-  <a href="https://youtube.com/andrelinosilvas" target="_blank"><img src="https://img.shields.io/badge/-andrelinosilvas-2d3436?style=flat&logo=youtube" /></a>
-  <a href="https://www.andrelino.dev/" target="_blank"><img src="https://img.shields.io/badge/-andrelinos.dev-2d3436?style=flat&logo=appveyor" /></a>
+<a href="https://app.rocketseat.com.br/me/andrelinosilva" target="_blank">
+<img src="https://github.com/andrelinos.png" width="100px" atl="Foto de perfil do GitHub de AndreLino" />
+<br /><sub><b>Andrelino Silva</b></sub>
+</a>
+
+<br />
+<h6 align="center">
+My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-stack developer since 2016 and I've been working with React.js since 2019. I worked remotely as a frontend developer in a technology company between 2022 and 2025. Meanwhile, I also develop personal projects, Node.js solutions and do freelance work.
 </p>
+
+</p>
+<br />
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/andrelinosilva/" target="_blank">
+        <img
+            alt="Linkedin Andrelino Silva"
+            src="https://img.shields.io/badge/-Andrelino%20Silva-%230077b5?style=flat-square&logo=linkedin">
+    </a>
+    <a href="mailto:andrelinodev@gmail.com">
+        <img
+            alt="gmail Andrelino Silva"
+            src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://andrelino.dev/" target="_blank">
+        <img
+            alt="website Andrelino Silva"
+            src="https://img.shields.io/badge/-andrelino.dev-3f80ee?style=flat-square&logo=&logoColor=white">
+
+    </a>
+
+</p>
+
+---
+
+### 🛠 Technologies
+
+<p align="center">
+    <!-- Já existentes -->
+    <a href="https://www.javascript.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-javascript.svg" alt="logo JavaScript" width="50px" style="border-radius: 8px;">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-typescript.png" alt="logo Typescript" width="56px">
+    </a>
+    <a href="https://firebase.google.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-firebase.svg" alt="logo Firebase" width="56px">
+    </a>
+    <a href="http://www.ecma-international.org/ecma-262/6.0/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-ecmascript6.svg" alt="logo ECS6" width="50px" style="border-radius: 8px;">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-css3.svg" alt="logo CSS3" width="50px" style="border-radius: 8px;">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-html5.svg" alt="logo HTML5" width="50px" style="border-radius: 8px;">
+    </a>
+    <a href="https://reactjs.org/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-react.svg" alt="logo React" width="50px" style="border-radius: 8px;">
+    </a>
+    <a href="https://reactnative.dev/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-react-native.svg" alt="logo React Native" width="50px" style="border-radius: 8px;">
+    </a>
+    <a href="https://nodejs.org/en/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-nodejs.svg" alt="logo Node.js" width="50px" style="border-radius: 8px;">
+    </a>
+    <a href="https://expressjs.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-express2.png" alt="logo Express" width="100px">
+    </a>
+    <br/>
+    <a href="https://git-scm.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-git.svg" alt="logo Git" width="50px">
+    </a>
+    <a href="https://www.postgresql.org/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-postgresql.svg" alt="logo PostgreSQL" width="50px">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-vscode.svg" alt="logo VSCode" width="50px">
+    </a>
+    <a href="https://vitejs.dev/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-vite.svg" alt="logo Vite.js" width="50px">
+    </a>
+    <a href="https://tailwindcss.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-tailwindcss.svg" alt="logo TailwindCSS" width="50px">
+    </a>
+    <a href="https://chakra-ui.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-chakraui.png" alt="logo Chakra UI" width="50px">
+    </a>
+    <a href="https://sass-lang.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-sass.svg" alt="logo Sass" width="50px">
+    </a>
+    <a href="https://getbootstrap.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-bootstrap.svg" alt="logo Bootstrap" width="50px">
+    </a>
+    <a href="https://wordpress.org/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-wordpress.svg" alt="logo WordPress" width="50px">
+    </a>
+    <a href="https://www.prisma.io/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-prisma.svg" alt="logo Prisma ORM" width="50px">
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-mongodb.svg" alt="logo MongoDB" width="50px">
+    </a>
+    <a href="https://www.sqlite.org/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-sqlite.svg" alt="logo SQLite" width="50px">
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-docker.svg" alt="logo Docker" width="50px">
+    </a>
+    <a href="https://axios-http.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-axios.svg" alt="logo Axios" width="50px">
+    </a>
+    <a href="https://tanstack.com/query/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-react-query.svg" alt="logo React Query" width="50px">
+    </a>
+    <a href="https://next-auth.js.org/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-nextauth.svg" alt="logo NextAuth.js" width="50px">
+    </a>
+    <a href="https://stripe.com/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-stripe.svg" alt="logo Stripe" width="50px">
+    </a>
+    <a href="https://www.mercadopago.com.br/">
+        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-mercadopago.svg" alt="logo Mercado Pago" width="50px">
+    </a>
+</p>
+
+---
+
+#### 🚧 What I'm looking for
+
+- Collaborate in a project;
+- Freelance projects;
+- To grow with the support of the community.
+
+---
+
+#### 💬 Languages
+
+- English - Basic;
+- Spanish - Basic;
+- Portuguese - Native.
+- And learning....
+
+---
+
+#### ⚡ Hobbies
+
+- 🎧 Listening a good music;
+- 🎬 Watch Movies;
+- 👫 I enjoy spending time with my wife and our two little dogs 🐕🐕, and doing volunteer work.
+
+---
+
+### 🧩 Projects I've worked on
+
+I have worked on public, corporate, and private systems
+
+- [**meBio**](https://me.bio.br) – public platform
+- [**Carangola Digital**](https://carangoladigital.com.br) – public project
+- [**RKW Landing Page**](https://landingpage-rkw.custoconecta.com.br) – corporate project (landingpage, rwk project)
+- One private system that I can’t share publicly at the moment
+
+---
+
+> *"Even if time is short and the challenges are big, never give up on being better than you were yesterday."* – Andrelino Silva
