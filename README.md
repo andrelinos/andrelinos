@@ -42,7 +42,7 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
 
 <p align="center">
  <a href="https://firebase.google.com/">
-        <img src="/assets/icon-firebase.svg" alt="logo Firebase" width="56px">
+        <img src="/assets/icon-firebase.svg" alt="logo Firebase" width="106px">
     </a>
     <a href="http://www.ecma-international.org/ecma-262/6.0/">
         <img src="/assets/icon-ecmascript6.svg" alt="logo ECS6" width="50px" style="border-radius: 8px;">
@@ -100,10 +100,10 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
         <img src="/assets/icon-wordpress.svg" alt="logo WordPress" width="50px">
     </a>
     <a href="https://www.prisma.io/">
-        <img src="/assets/icon-prisma.svg" alt="logo Prisma ORM" width="50px">
+        <img src="/assets/icon-prisma.svg" alt="logo Prisma ORM" width="100px">
     </a>
     <a href="https://www.mongodb.com/">
-        <img src="/assets/icon-mongodb.svg" alt="logo MongoDB" width="50px">
+        <img src="/assets/icon-mongodb.svg" alt="logo MongoDB" width="100px">
     </a>
     <a href="https://www.sqlite.org/">
         <img src="/assets/icon-sqlite.svg" alt="logo SQLite" width="50px">
@@ -112,7 +112,7 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
         <img src="/assets/icon-docker.svg" alt="logo Docker" width="50px">
     </a>
     <a href="https://axios-http.com/">
-        <img src="/assets/icon-axios.svg" alt="logo Axios" width="50px">
+        <img src="/assets/icon-axios.svg" alt="logo Axios" width="100px">
     </a>
     <a href="https://tanstack.com/query/">
         <img src="/assets/icon-react-query.svg" alt="logo React Query" width="50px">
@@ -123,8 +123,8 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
     <a href="https://stripe.com/">
         <img src="/assets/icon-stripe.svg" alt="logo Stripe" width="50px">
     </a>
-   <a href="https://www.mercadopago.com.br/" style="background-color: #ffffff;">
-    <img src="/assets/icon-mercado-pago.png" alt="logo Mercado Pago" width="100px">
+   <a href="https://www.mercadopago.com.br/" >
+    <img src="/assets/icon-mercado-pago.svg" alt="logo Mercado Pago" width="150px">
 </a>
 
 </p>
