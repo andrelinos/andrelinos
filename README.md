@@ -123,9 +123,10 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
     <a href="https://stripe.com/">
         <img src="/assets/icon-stripe.svg" alt="logo Stripe" width="50px">
     </a>
-    <a href="https://www.mercadopago.com.br/">
-        <img src="/assets/icon-mercado-pago.png" alt="logo Mercado Pago" width="100px">
-    </a>
+   <a href="https://www.mercadopago.com.br/" style="background-color: #ffffff;">
+    <img src="/assets/icon-mercado-pago.png" alt="logo Mercado Pago" width="100px">
+</a>
+
 </p>
 
 ---
