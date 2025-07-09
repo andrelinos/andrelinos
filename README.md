@@ -47,86 +47,86 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
         <img src="/assets/icon-javascript.svg" alt="logo JavaScript" width="50px" style="border-radius: 8px;">
     </a>
     <a href="https://www.typescriptlang.org/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-typescript.png" alt="logo Typescript" width="56px">
+        <img src="/assets/icon-typescript.png" alt="logo Typescript" width="56px">
     </a>
     <a href="https://firebase.google.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-firebase.svg" alt="logo Firebase" width="56px">
+        <img src="/assets/icon-firebase.svg" alt="logo Firebase" width="56px">
     </a>
     <a href="http://www.ecma-international.org/ecma-262/6.0/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-ecmascript6.svg" alt="logo ECS6" width="50px" style="border-radius: 8px;">
+        <img src="/assets/icon-ecmascript6.svg" alt="logo ECS6" width="50px" style="border-radius: 8px;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-css3.svg" alt="logo CSS3" width="50px" style="border-radius: 8px;">
+        <img src="/assets/icon-css3.svg" alt="logo CSS3" width="50px" style="border-radius: 8px;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-html5.svg" alt="logo HTML5" width="50px" style="border-radius: 8px;">
+        <img src="/assets/icon-html5.svg" alt="logo HTML5" width="50px" style="border-radius: 8px;">
     </a>
     <a href="https://reactjs.org/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-react.svg" alt="logo React" width="50px" style="border-radius: 8px;">
+        <img src="/assets/icon-react.svg" alt="logo React" width="50px" style="border-radius: 8px;">
     </a>
     <a href="https://reactnative.dev/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-react-native.svg" alt="logo React Native" width="50px" style="border-radius: 8px;">
+        <img src="/assets/icon-react-native.svg" alt="logo React Native" width="50px" style="border-radius: 8px;">
     </a>
     <a href="https://nodejs.org/en/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-nodejs.svg" alt="logo Node.js" width="50px" style="border-radius: 8px;">
+        <img src="/assets/icon-nodejs.svg" alt="logo Node.js" width="50px" style="border-radius: 8px;">
     </a>
     <a href="https://expressjs.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-express2.png" alt="logo Express" width="100px">
+        <img src="/assets/icon-express2.png" alt="logo Express" width="100px">
     </a>
     <br/>
     <a href="https://git-scm.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-git.svg" alt="logo Git" width="50px">
+        <img src="/assets/icon-git.svg" alt="logo Git" width="50px">
     </a>
     <a href="https://www.postgresql.org/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-postgresql.svg" alt="logo PostgreSQL" width="50px">
+        <img src="/assets/icon-postgresql.svg" alt="logo PostgreSQL" width="50px">
     </a>
     <a href="https://code.visualstudio.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-vscode.svg" alt="logo VSCode" width="50px">
+        <img src="/assets/icon-vscode.svg" alt="logo VSCode" width="50px">
     </a>
     <a href="https://vitejs.dev/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-vite.svg" alt="logo Vite.js" width="50px">
+        <img src="/assets/icon-vite.svg" alt="logo Vite.js" width="50px">
     </a>
     <a href="https://tailwindcss.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-tailwindcss.svg" alt="logo TailwindCSS" width="50px">
+        <img src="/assets/icon-tailwindcss.svg" alt="logo TailwindCSS" width="50px">
     </a>
     <a href="https://chakra-ui.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-chakraui.png" alt="logo Chakra UI" width="50px">
+        <img src="/assets/icon-chakraui.png" alt="logo Chakra UI" width="50px">
     </a>
     <a href="https://sass-lang.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-sass.svg" alt="logo Sass" width="50px">
+        <img src="/assets/icon-sass.svg" alt="logo Sass" width="50px">
     </a>
     <a href="https://getbootstrap.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-bootstrap.svg" alt="logo Bootstrap" width="50px">
+        <img src="/assets/icon-bootstrap.svg" alt="logo Bootstrap" width="50px">
     </a>
     <a href="https://wordpress.org/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-wordpress.svg" alt="logo WordPress" width="50px">
+        <img src="/assets/icon-wordpress.svg" alt="logo WordPress" width="50px">
     </a>
     <a href="https://www.prisma.io/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-prisma.svg" alt="logo Prisma ORM" width="50px">
+        <img src="/assets/icon-prisma.svg" alt="logo Prisma ORM" width="50px">
     </a>
     <a href="https://www.mongodb.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-mongodb.svg" alt="logo MongoDB" width="50px">
+        <img src="/assets/icon-mongodb.svg" alt="logo MongoDB" width="50px">
     </a>
     <a href="https://www.sqlite.org/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-sqlite.svg" alt="logo SQLite" width="50px">
+        <img src="/assets/icon-sqlite.svg" alt="logo SQLite" width="50px">
     </a>
     <a href="https://www.docker.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-docker.svg" alt="logo Docker" width="50px">
+        <img src="/assets/icon-docker.svg" alt="logo Docker" width="50px">
     </a>
     <a href="https://axios-http.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-axios.svg" alt="logo Axios" width="50px">
+        <img src="/assets/icon-axios.svg" alt="logo Axios" width="50px">
     </a>
     <a href="https://tanstack.com/query/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-react-query.svg" alt="logo React Query" width="50px">
+        <img src="/assets/icon-react-query.svg" alt="logo React Query" width="50px">
     </a>
     <a href="https://next-auth.js.org/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-nextauth.svg" alt="logo NextAuth.js" width="50px">
+        <img src="/assets/icon-nextauth.svg" alt="logo NextAuth.js" width="50px">
     </a>
     <a href="https://stripe.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-stripe.svg" alt="logo Stripe" width="50px">
+        <img src="/assets/icon-stripe.svg" alt="logo Stripe" width="50px">
     </a>
     <a href="https://www.mercadopago.com.br/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-mercadopago.svg" alt="logo Mercado Pago" width="50px">
+        <img src="/assets/icon-mercadopago.svg" alt="logo Mercado Pago" width="50px">
     </a>
 </p>
 
