@@ -44,7 +44,7 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
 <p align="center">
     <!-- Já existentes -->
     <a href="https://www.javascript.com/">
-        <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-javascript.svg" alt="logo JavaScript" width="50px" style="border-radius: 8px;">
+        <img src="/assets/icon-javascript.svg" alt="logo JavaScript" width="50px" style="border-radius: 8px;">
     </a>
     <a href="https://www.typescriptlang.org/">
         <img src="https://github.com/andrelinos/andrelinos/blob/master/assets/icon-typescript.png" alt="logo Typescript" width="56px">
