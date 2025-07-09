@@ -162,7 +162,7 @@ I have worked on public, corporate, and private systems
 
 - [**meBio**](https://me.bio.br) – public platform
 - [**Carangola Digital**](https://carangoladigital.com.br) – public project
-- [**RKW Landing Page**](https://landingpage-rkw.custoconecta.com.br) – corporate project (landingpage, rwk project)
+- [**RKW Project**](https://landingpage-rkw.custoconecta.com.br) – corporate project (landingpage, rwk project and helpdesk)
 - One private system that I can’t share publicly at the moment
 
 ---
