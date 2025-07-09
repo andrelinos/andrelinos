@@ -16,7 +16,7 @@
 <br />
 
 <h6 align="center">
-My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-stack developer since 2016 and I've been working with React.js since 2019. I worked remotely as a frontend developer in a technology company between 2022 and 2025. Meanwhile, I also develop personal projects, Node.js solutions and do freelance work.
+My name is Andrelino Silva, and I'm a full-stack developer from Brazil. I've been building software since 2016, with a strong focus on React.js since 2019. I work with React.js every day, especially using Next.js. From 2022 to 2025, I worked remotely as a frontend developer at a tech company. Occasionally, I also work on personal and freelance projects using technologies like Node.js and React Native.
 </h6>
 
 <br />
