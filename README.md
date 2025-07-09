@@ -1,20 +1,24 @@
 
 # What's up Dev? How are you? 👋
 
-## 😁 Whow am I?
+### 😁 Whow am I?
 
 <p align="center">
-<a href="https://app.rocketseat.com.br/me/andrelinosilva" target="_blank">
-<img src="https://github.com/andrelinos.png" width="100px" atl="Foto de perfil do GitHub de AndreLino" />
-<br /><sub><b>Andrelino Silva</b></sub>
-</a>
-
+    <a href="https://app.rocketseat.com.br/me/andrelinosilva" target="_blank">
+        <img
+            src="https://github.com/andrelinos.png"
+            width="100px"
+            atl="Foto de perfil do GitHub de AndreLino" />
+        <br />
+        <sub><b>Andrelino Silva</b></sub>
+    </a>
+</p>
 <br />
+
 <h6 align="center">
 My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-stack developer since 2016 and I've been working with React.js since 2019. I worked remotely as a frontend developer in a technology company between 2022 and 2025. Meanwhile, I also develop personal projects, Node.js solutions and do freelance work.
-</p>
+</h6>
 
-</p>
 <br />
 
 <p align="center">
@@ -33,7 +37,6 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
             alt="website Andrelino Silva"
             src="https://img.shields.io/badge/-andrelino.dev-3f80ee?style=flat-square&logo=&logoColor=white">
     </a>
-
 </p>
 
 ---
@@ -126,7 +129,6 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
    <a href="https://www.mercadopago.com.br/" >
     <img src="/assets/icon-mercado-pago.svg" alt="logo Mercado Pago" width="100px">
 </a>
-
 </p>
 
 ---
