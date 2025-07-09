@@ -83,13 +83,13 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
         <img src="/assets/icon-vscode.svg" alt="logo VSCode" width="50px">
     </a>
     <a href="https://vitejs.dev/">
-        <img src="/assets/icon-vite.svg" alt="logo Vite.js" width="50px">
+        <img src="/assets/icon-vitejs.svg" alt="logo Vite.js" width="50px">
     </a>
     <a href="https://tailwindcss.com/">
         <img src="/assets/icon-tailwindcss.svg" alt="logo TailwindCSS" width="50px">
     </a>
     <a href="https://chakra-ui.com/">
-        <img src="/assets/icon-chakraui.png" alt="logo Chakra UI" width="50px">
+        <img src="/assets/icon-chakra-ui.svg" alt="logo Chakra UI" width="50px">
     </a>
     <a href="https://sass-lang.com/">
         <img src="/assets/icon-sass.svg" alt="logo Sass" width="50px">
@@ -125,7 +125,7 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
         <img src="/assets/icon-stripe.svg" alt="logo Stripe" width="50px">
     </a>
     <a href="https://www.mercadopago.com.br/">
-        <img src="/assets/icon-mercadopago.svg" alt="logo Mercado Pago" width="50px">
+        <img src="/assets/icon-mercado-pago.png" alt="logo Mercado Pago" width="50px">
     </a>
 </p>
 
