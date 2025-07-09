@@ -37,26 +37,19 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
 
 </p>
 
----
+---''
 
 ### 🛠 Technologies
 
 <p align="center">
-    <!-- Já existentes -->
-    <a href="https://www.javascript.com/">
-        <img src="/assets/icon-javascript.svg" alt="logo JavaScript" width="50px" style="border-radius: 8px;">
-    </a>
-    <a href="https://www.typescriptlang.org/">
-        <img src="/assets/icon-typescript.png" alt="logo Typescript" width="56px">
-    </a>
-    <a href="https://firebase.google.com/">
+ <a href="https://firebase.google.com/">
         <img src="/assets/icon-firebase.svg" alt="logo Firebase" width="56px">
     </a>
     <a href="http://www.ecma-international.org/ecma-262/6.0/">
         <img src="/assets/icon-ecmascript6.svg" alt="logo ECS6" width="50px" style="border-radius: 8px;">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="/assets/icon-css3.svg" alt="logo CSS3" width="50px" style="border-radius: 8px;">
+     <a href="https://www.javascript.com/">
+        <img src="/assets/icon-javascript.svg" alt="logo JavaScript" width="50px" style="border-radius: 8px;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="/assets/icon-html5.svg" alt="logo HTML5" width="50px" style="border-radius: 8px;">
@@ -66,6 +59,9 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
     </a>
     <a href="https://reactnative.dev/">
         <img src="/assets/icon-react-native.svg" alt="logo React Native" width="50px" style="border-radius: 8px;">
+    </a>
+     <a href="https://www.typescriptlang.org/">
+        <img src="/assets/icon-typescript.png" alt="logo Typescript" width="56px">
     </a>
     <a href="https://nodejs.org/en/">
         <img src="/assets/icon-nodejs.svg" alt="logo Node.js" width="50px" style="border-radius: 8px;">
@@ -79,6 +75,9 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
     </a>
     <a href="https://www.postgresql.org/">
         <img src="/assets/icon-postgresql.svg" alt="logo PostgreSQL" width="50px">
+    </a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="/assets/icon-css3.svg" alt="logo CSS3" width="50px" style="border-radius: 8px;">
     </a>
     <a href="https://code.visualstudio.com/">
         <img src="/assets/icon-vscode.svg" alt="logo VSCode" width="50px">
@@ -120,7 +119,7 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
         <img src="/assets/icon-react-query.svg" alt="logo React Query" width="50px">
     </a>
     <a href="https://next-auth.js.org/">
-        <img src="/assets/icon-nextauth.svg" alt="logo NextAuth.js" width="50px">
+        <img src="/assets/icon-next-auth.png" alt="logo NextAuth.js" width="50px">
     </a>
     <a href="https://stripe.com/">
         <img src="/assets/icon-stripe.svg" alt="logo Stripe" width="50px">
