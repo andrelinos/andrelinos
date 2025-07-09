@@ -32,12 +32,11 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
         <img
             alt="website Andrelino Silva"
             src="https://img.shields.io/badge/-andrelino.dev-3f80ee?style=flat-square&logo=&logoColor=white">
-
     </a>
 
 </p>
 
----''
+---
 
 ### 🛠 Technologies
 
@@ -125,7 +124,7 @@ My name is Andrelino Silva. I'm a full-stack developer from Brazil. I'm a full-s
         <img src="/assets/icon-stripe.svg" alt="logo Stripe" width="50px">
     </a>
     <a href="https://www.mercadopago.com.br/">
-        <img src="/assets/icon-mercado-pago.png" alt="logo Mercado Pago" width="50px">
+        <img src="/assets/icon-mercado-pago.png" alt="logo Mercado Pago" width="100px">
     </a>
 </p>
 
