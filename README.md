@@ -1,4 +1,4 @@
-# Olá! Eu sou Andrelino Silva 👋
+# Hi there! I'm Andrelino Silva 👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrelinosilva/" target="_blank">
@@ -12,33 +12,36 @@
   </a>
 </p>
 
+
+<div align="right">
+  <a href="README-pt.md">🇧🇷 Português</a>
+</div>
+
+## 👨‍💻 About Me
+
+I am a software developer from Brazil, building web applications since 2016. While my background covers the full stack, my true passion and daily expertise lie in the **modern Frontend ecosystem**, specifically working with React.js and Next.js.
+
+I don't just write code; I focus on building scalable, maintainable, and highly performant applications. I prioritize high-quality engineering standards, actively applying **SOLID principles, Clean Code**, and clear architectural boundaries in my projects.
+
+**My current technical focus:**
+- Building robust interfaces with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**.
+- Modeling data and backend integrations using **Prisma** and **Drizzle ORM**.
+- Maintaining an efficient, terminal-driven workflow on **Linux (Fedora)**, integrating modern AI agents to accelerate development and problem-solving.
+
 ---
 
-## 👨‍💻 Sobre Mim
+## 🛠️ Tech Stack & Tools
 
-Sou desenvolvedor de software, criando aplicações web desde 2016. Embora minha base seja full-stack, minha verdadeira paixão e especialidade diária estão no **ecossistema moderno de Frontend**, trabalhando intensamente com React.js e Next.js.
+Instead of listing every tool I've ever touched, here is the core stack I use to ship products to production:
 
-Meu foco vai além de apenas escrever código; busco construir aplicações escaláveis, de fácil manutenção e com alta performance. Priorizo padrões de engenharia de software e boas práticas, aplicando ativamente **princípios SOLID, Clean Code** e separação de responsabilidades nos meus projetos.
-
-**Meu foco técnico atual:**
-- Construção de interfaces robustas com **Next.js (App Router)**, **TypeScript** e **Tailwind CSS**.
-- Modelagem de dados e integrações backend utilizando **Prisma** e **Drizzle ORM**.
-- Manutenção de um fluxo de trabalho eficiente focado no terminal via **Linux (Fedora)**, integrando agentes de IA modernos para acelerar o desenvolvimento e a resolução de problemas complexos.
-
----
-
-## 🛠️ Stack Tecnológica
-
-Em vez de listar todas as ferramentas que já utilizei, este é o núcleo da minha stack para colocar produtos em produção:
-
-### Ecossistema Frontend
+### Frontend Ecosystem
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 
-### Backend e Arquitetura
+### Backend & Architecture
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -46,23 +49,21 @@ Em vez de listar todas as ferramentas que já utilizei, este é o núcleo da min
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-Tenho experiência na construção de diversas soluções, desde plataformas corporativas até diretórios de negócios locais e SaaS. Alguns destaques:
+I have experience building everything from corporate platforms to local business directories and SaaS applications. Here are some highlights:
 
-*   [**meBio**](https://me.bio.br) — Uma plataforma de agendamento e agregador de links altamente customizável para redes sociais. Inclui funcionalidades complexas, suporte a múltiplos idiomas e integrações de split de pagamentos.
-*   [**Carangola Digital**](https://carangoladigital.com.br) — Um guia digital completo construído para conectar o comércio local, serviços e imóveis, com foco em otimização de SEO e gestão de negócios pelos próprios lojistas.
-*   **Hey Move** — Um aplicativo de produtividade *(em desenvolvimento)* que integra a técnica Pomodoro com o monitoramento de exercícios físicos e dicas de saúde.
-*   [**Projeto RKW**](https://landingpage-rkw.custoconecta.com.br) — Landing page corporativa e sistema de helpdesk desenvolvidos para necessidades operacionais específicas.
-
----
-
-## ⚡ Além do Código
-
-- 💬 **Idiomas:** Português (Nativo) | Inglês (Leitura técnica e escrita) | Espanhol (Básico)
-- 🤝 Estou sempre aberto a oportunidades remotas no desenvolvimento frontend, projetos freelance desafiadores e colaborações open-source.
-- 🐕 Quando estou longe do teclado, gosto de passar o tempo com minha esposa e nossos dois cachorros, fazer trabalho voluntário ou ouvir uma boa música.
+*   [**meBio**](https://me.bio.br) - A highly customizable link aggregator and scheduling platform designed for social media. Includes complex features like multi-language support and payment splitting integrations.
+*   [**Carangola Digital**](https://carangoladigital.com.br) - A comprehensive digital directory platform built to connect local commerce, services, and real estate, featuring SEO optimization and business claim management.
+*   [**Hey Move**] - An in-development productivity application combining the Pomodoro technique with physical exercise tracking and health tips.
+*   [**RKW Project**](https://landingpage-rkw.custoconecta.com.br) - A corporate landing page and helpdesk system tailored for specific business operational needs.
 
 ---
 
-> *"Mesmo que o tempo seja curto e os desafios grandes, nunca desista de ser melhor do que você foi ontem."*
+## ⚡ Beyond the Code
+
+- 💬 **Languages:** Portuguese (Native) | English (Basic/Reading & Writing for Tech) | Spanish (Basic)
+- 🤝 Constantly looking for remote frontend opportunities, freelance challenges, and open-source collaboration.
+- 🐕 When I'm away from the keyboard, I'm usually spending time with my wife and our two dogs, volunteering, or listening to good music.
+
+> *"Even if time is short and the challenges are big, never give up on being better than you were yesterday."*
