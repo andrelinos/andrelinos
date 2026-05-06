@@ -65,4 +65,9 @@ Tenho experiência na construção de diversas soluções, desde plataformas cor
 - 🤝 Estou sempre aberto a oportunidades remotas no desenvolvimento frontend, projetos freelance desafiadores e colaborações open-source.
 - 🐕 Quando estou longe do teclado, gosto de passar o tempo com minha esposa e nossos dois cachorros, fazer trabalho voluntário ou ouvir uma boa música.
 
+### 🔭 O que estou explorando agora
+- **Desenvolvimento Assistido por IA:** Utilizando ferramentas de IA integradas ao terminal (Linux) para acelerar o processo de codificação e otimizar meu fluxo de trabalho diário.
+- **Engenharia de Prompt:** Aprimorando minhas habilidades em criação de prompts para escrever código com mais velocidade e qualidade, apoiado pelo ecossistema de aprendizado contínuo da [Rocketseat](https://rocketseat.com.br/).
+- **Além do Frontend:** Estudando fundamentos de Python e Redes Neurais para expandir minha visão arquitetural e entender a mecânica por trás das funcionalidades modernas de IA.
+
 > *"Mesmo que o tempo seja curto e os desafios grandes, nunca desista de ser melhor do que você foi ontem."*

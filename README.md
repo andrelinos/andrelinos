@@ -66,4 +66,9 @@ I have experience building everything from corporate platforms to local business
 - 🤝 Constantly looking for remote frontend opportunities, freelance challenges, and open-source collaboration.
 - 🐕 When I'm away from the keyboard, I'm usually spending time with my wife and our two dogs, volunteering, or listening to good music.
 
+### 🔭 Currently Exploring
+- **AI-Assisted Development:** Leveraging terminal-integrated AI tools on my Linux environment to accelerate the coding process and optimize my daily workflow.
+- **Prompt Engineering:** Honing my prompt engineering skills to write better and faster code, supported by the continuous learning ecosystem at [Rocketseat](https://rocketseat.com.br/).
+- **Beyond Frontend:** Studying Python fundamentals and Neural Networks to expand my architectural vision and understand the mechanics behind modern AI features.
+
 > *"Even if time is short and the challenges are big, never give up on being better than you were yesterday."*
