@@ -1,172 +1,66 @@
-
-# What's up Dev? How are you? 👋
-
-### 😁 Whow am I?
+# Olá! Eu sou Andrelino Silva 👋
 
 <p align="center">
-    <a href="https://app.rocketseat.com.br/me/andrelinosilva" target="_blank">
-        <img
-            src="https://github.com/andrelinos.png"
-            width="100px"
-            atl="Foto de perfil do GitHub de AndreLino" />
-        <br />
-        <sub><b>Andrelino Silva</b></sub>
-    </a>
-</p>
-<br />
-
-<h6 align="center">
-My name is Andrelino Silva, and I'm a full-stack developer from Brazil. I've been building software since 2016, with a strong focus on React.js since 2019. I work with React.js every day, especially using Next.js. From 2022 to 2025, I worked remotely as a frontend developer at a tech company. Occasionally, I also work on personal and freelance projects using technologies like Node.js and React Native.
-</h6>
-
-<br />
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/andrelinosilva/" target="_blank">
-        <img
-            alt="Linkedin Andrelino Silva"
-            src="https://img.shields.io/badge/-Andrelino%20Silva-%230077b5?style=flat-square&logo=linkedin">
-    </a>
-    <a href="mailto:andrelinodev@gmail.com">
-        <img
-            alt="gmail Andrelino Silva"
-            src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://andrelino.dev/" target="_blank">
-        <img
-            alt="website Andrelino Silva"
-            src="https://img.shields.io/badge/-andrelino.dev-3f80ee?style=flat-square&logo=&logoColor=white">
-    </a>
+  <a href="https://www.linkedin.com/in/andrelinosilva/" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Andrelino%20Silva-%230077b5?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:andrelinodev@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://andrelino.dev/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-andrelino.dev-3f80ee?style=flat-square&logo=&logoColor=white">
+  </a>
 </p>
 
----
+*Ler em [English](README.md)*
 
-### 🛠 Technologies
+## 👨‍💻 Sobre Mim
 
-<p align="center">
- <a href="https://firebase.google.com/">
-        <img src="/assets/icon-firebase.svg" alt="logo Firebase" width="106px">
-    </a>
-    <a href="http://www.ecma-international.org/ecma-262/6.0/">
-        <img src="/assets/icon-ecmascript6.svg" alt="logo ECS6" width="50px" style="border-radius: 8px;">
-    </a>
-     <a href="https://www.javascript.com/">
-        <img src="/assets/icon-javascript.svg" alt="logo JavaScript" width="50px" style="border-radius: 8px;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="/assets/icon-html5.svg" alt="logo HTML5" width="50px" style="border-radius: 8px;">
-    </a>
-    <a href="https://reactjs.org/">
-        <img src="/assets/icon-react.svg" alt="logo React" width="50px" style="border-radius: 8px;">
-    </a>
-    <a href="https://reactnative.dev/">
-        <img src="/assets/icon-react-native.svg" alt="logo React Native" width="50px" style="border-radius: 8px;">
-    </a>
-     <a href="https://www.typescriptlang.org/">
-        <img src="/assets/icon-typescript.png" alt="logo Typescript" width="56px">
-    </a>
-    <a href="https://nodejs.org/en/">
-        <img src="/assets/icon-nodejs.svg" alt="logo Node.js" width="50px" style="border-radius: 8px;">
-    </a>
-    <a href="https://expressjs.com/">
-        <img src="/assets/icon-express2.png" alt="logo Express" width="100px">
-    </a>
-    <br/>
-    <a href="https://git-scm.com/">
-        <img src="/assets/icon-git.svg" alt="logo Git" width="50px">
-    </a>
-    <a href="https://www.postgresql.org/">
-        <img src="/assets/icon-postgresql.svg" alt="logo PostgreSQL" width="50px">
-    </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="/assets/icon-css3.svg" alt="logo CSS3" width="50px" style="border-radius: 8px;">
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img src="/assets/icon-vscode.svg" alt="logo VSCode" width="50px">
-    </a>
-    <a href="https://vitejs.dev/">
-        <img src="/assets/icon-vitejs.svg" alt="logo Vite.js" width="50px">
-    </a>
-    <a href="https://tailwindcss.com/">
-        <img src="/assets/icon-tailwindcss.svg" alt="logo TailwindCSS" width="50px">
-    </a>
-    <a href="https://chakra-ui.com/">
-        <img src="/assets/icon-chakra-ui.svg" alt="logo Chakra UI" width="50px">
-    </a>
-    <a href="https://sass-lang.com/">
-        <img src="/assets/icon-sass.svg" alt="logo Sass" width="50px">
-    </a>
-    <a href="https://getbootstrap.com/">
-        <img src="/assets/icon-bootstrap.svg" alt="logo Bootstrap" width="50px">
-    </a>
-    <a href="https://wordpress.org/">
-        <img src="/assets/icon-wordpress.svg" alt="logo WordPress" width="50px">
-    </a>
-    <a href="https://www.prisma.io/">
-        <img src="/assets/icon-prisma.svg" alt="logo Prisma ORM" width="100px">
-    </a>
-    <a href="https://www.mongodb.com/">
-        <img src="/assets/icon-mongodb.svg" alt="logo MongoDB" width="100px">
-    </a>
-    <a href="https://www.sqlite.org/">
-        <img src="/assets/icon-sqlite.svg" alt="logo SQLite" width="50px">
-    </a>
-    <a href="https://www.docker.com/">
-        <img src="/assets/icon-docker.svg" alt="logo Docker" width="50px">
-    </a>
-    <a href="https://axios-http.com/">
-        <img src="/assets/icon-axios.svg" alt="logo Axios" width="100px">
-    </a>
-    <a href="https://tanstack.com/query/">
-        <img src="/assets/icon-react-query.svg" alt="logo React Query" width="50px">
-    </a>
-    <a href="https://next-auth.js.org/">
-        <img src="/assets/icon-next-auth.png" alt="logo NextAuth.js" width="50px">
-    </a>
-    <a href="https://stripe.com/">
-        <img src="/assets/icon-stripe.svg" alt="logo Stripe" width="50px">
-    </a>
-   <a href="https://www.mercadopago.com.br/" >
-    <img src="/assets/icon-mercado-pago.svg" alt="logo Mercado Pago" width="100px">
-</a>
-</p>
+Sou desenvolvedor de software, criando aplicações web desde 2016. Embora minha base seja full-stack, minha verdadeira paixão e especialidade diária estão no **ecossistema moderno de Frontend**, trabalhando intensamente com React.js e Next.js.
+
+Meu foco vai além de apenas escrever código; busco construir aplicações escaláveis, de fácil manutenção e com alta performance. Priorizo padrões de engenharia de software e boas práticas, aplicando ativamente **princípios SOLID, Clean Code** e separação de responsabilidades nos meus projetos.
+
+**Meu foco técnico atual:**
+- Construção de interfaces robustas com **Next.js (App Router)**, **TypeScript** e **Tailwind CSS**.
+- Modelagem de dados e integrações backend utilizando **Prisma** e **Drizzle ORM**.
+- Manutenção de um fluxo de trabalho eficiente focado no terminal via **Linux (Fedora)**, integrando agentes de IA modernos para acelerar o desenvolvimento e a resolução de problemas complexos.
 
 ---
 
-#### 🚧 What I'm looking for
+## 🛠️ Stack Tecnológica
 
-- Collaborate in a project;
-- Freelance projects;
-- To grow with the support of the community.
+Em vez de listar todas as ferramentas que já utilizei, este é o núcleo da minha stack para colocar produtos em produção:
 
----
+### Ecossistema Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 
-#### 💬 Languages
-
-- English - Basic;
-- Spanish - Basic;
-- Portuguese - Native.
-- And learning....
-
----
-
-#### ⚡ Hobbies
-
-- 🎧 Listening a good music;
-- 🎬 Watch Movies;
-- 👫 I enjoy spending time with my wife and our two little dogs 🐕🐕, and doing volunteer work.
+### Backend e Arquitetura
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### 🧩 Projects I've worked on
+## 🚀 Projetos em Destaque
 
-I have worked on public, corporate, and private systems
+Tenho experiência na construção de diversas soluções, desde plataformas corporativas até diretórios de negócios locais e SaaS. Alguns destaques:
 
-- [**meBio**](https://me.bio.br) – public platform
-- [**Carangola Digital**](https://carangoladigital.com.br) – public project
-- [**RKW Project**](https://landingpage-rkw.custoconecta.com.br) – corporate project (landingpage, rwk project and helpdesk)
-- One private system that I can’t share publicly at the moment
+*   [**meBio**](https://me.bio.br) - Uma plataforma de agendamento e agregador de links altamente customizável para redes sociais. Inclui funcionalidades complexas, suporte a múltiplos idiomas e integrações de split de pagamentos.
+*   [**Carangola Digital**](https://carangoladigital.com.br) - Um guia digital completo construído para conectar o comércio local, serviços e imóveis, com foco em otimização de SEO e gestão de negócios pelos próprios lojistas.
+*   [**Hey Move**] - Um aplicativo de produtividade (em desenvolvimento) que integra a técnica Pomodoro com o monitoramento de exercícios físicos e dicas de saúde.
+*   [**Projeto RKW**](https://landingpage-rkw.custoconecta.com.br) - Landing page corporativa e sistema de helpdesk desenvolvidos para necessidades operacionais específicas.
 
 ---
 
-> *"Even if time is short and the challenges are big, never give up on being better than you were yesterday."* – Andrelino Silva
+## ⚡ Além do Código
+
+- 💬 **Idiomas:** Português (Nativo) | Inglês (Leitura técnica e escrita) | Espanhol (Básico)
+- 🤝 Estou sempre aberto a oportunidades remotas no desenvolvimento frontend, projetos freelance desafiadores e colaborações open-source.
+- 🐕 Quando estou longe do teclado, gosto de passar o tempo com minha esposa e nossos dois cachorros, fazer trabalho voluntário ou ouvir uma boa música.
+
+> *"Mesmo que o tempo seja curto e os desafios grandes, nunca desista de ser melhor do que você foi ontem."*
