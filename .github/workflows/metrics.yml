@@ -15,14 +15,9 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # Configurações visuais e de segurança
-          base: ""
           plugins_errors_fatal: no
-          config_timezone: Europe/Lisbon
+          base: ""
           
-          # Plugin Habits configurado de forma segura
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 60
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_lines: yes
