@@ -71,3 +71,5 @@ Tenho experiência na construção de diversas soluções, desde plataformas cor
 - **Além do Frontend:** Estudando fundamentos de Python e Redes Neurais para expandir minha visão arquitetural e entender a mecânica por trás das funcionalidades modernas de IA.
 
 > *"Mesmo que o tempo seja curto e os desafios grandes, nunca desista de ser melhor do que você foi ontem."*
+>
+> ![Metrics](metrics.svg)
