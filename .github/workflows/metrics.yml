@@ -15,15 +15,16 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           
+          # Impede que a Action gere uma imagem de erro caso não haja dados suficientes
+          plugins_errors_fatal: no
+          
           # Configurações globais
+          base: ""
           config_timezone: Europe/Lisbon
           
-          # Desativa o cabeçalho padrão se quiser apenas o radar
-          base: ""
-          
-          # Plugin Habits / Radar de Atividades
+          # Plugin Habits / Radar de Atividades com fallback de dados
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 30
-          plugin_habits_facts: no
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
