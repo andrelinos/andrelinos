@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Executa automaticamente a cada 24 horas (ou ajuste como preferir)
   schedule: [{cron: "0 0 * * *"}]
-  # Permite rodar manualmente na aba "Actions"
   workflow_dispatch:
   push: {branches: ["main", "master"]}
 
@@ -16,7 +14,16 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          # Ativa especificamente o plugin de hábitos/radar de atividades
-          plugin_habits: yes
-          plugin_habits_charts: yes
+          
+          # Configurações globais
+          config_timezone: Europe/Lisbon
+          
+          # Desativa o cabeçalho padrão se quiser apenas o radar
           base: ""
+          
+          # Plugin Habits / Radar de Atividades
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
