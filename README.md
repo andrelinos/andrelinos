@@ -72,3 +72,5 @@ I have experience building everything from corporate platforms to local business
 - **Beyond Frontend:** Studying Python fundamentals and Neural Networks to expand my architectural vision and understand the mechanics behind modern AI features.
 
 > *"Even if time is short and the challenges are big, never give up on being better than you were yesterday."*
+>
+> ![Metrics](metrics.svg)
