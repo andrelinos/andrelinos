@@ -1,0 +1,22 @@
+name: Metrics
+on:
+  # Executa automaticamente a cada 24 horas (ou ajuste como preferir)
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite rodar manualmente na aba "Actions"
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Ativa especificamente o plugin de hábitos/radar de atividades
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          base: ""
